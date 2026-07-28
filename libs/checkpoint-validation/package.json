@@ -30,8 +30,8 @@
   "author": "LangChain",
   "license": "MIT",
   "dependencies": {
-    "uuid": "^10.0.0",
-    "vitest": "^3.1.2",
+    "uuid": "^14.0.1",
+    "vitest": "^4.1.10",
     "yargs": "^17.7.2",
     "zod": "^3.23.8"
   },
